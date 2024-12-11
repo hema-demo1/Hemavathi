@@ -1,0 +1,358 @@
+﻿Fips,Location,Drug Type,TimeFrame,Data Type,Data,MOE
+01,Alabama,All drugs,2022,"Rate per 100,000",31.53263,1.6340910020399999
+02,Alaska,All drugs,2022,"Rate per 100,000",34.28464,4.2901454727599999
+04,Arizona,All drugs,2022,"Rate per 100,000",37.22267,1.444582681
+05,Arkansas,All drugs,2022,"Rate per 100,000",21.68382,1.7441150826399998
+06,California,All drugs,2022,"Rate per 100,000",26.94748,0.51287454259999998
+08,Colorado,All drugs,2022,"Rate per 100,000",29.7936,1.3915024821599999
+09,Connecticut,All drugs,2022,"Rate per 100,000",40.2672,2.1210270379200002
+10,Delaware,All drugs,2022,"Rate per 100,000",55.32738,4.8089664907199996
+11,Dist. of Columbia,All drugs,2022,"Rate per 100,000",64.25178,6.0233963498799996
+12,Florida,All drugs,2022,"Rate per 100,000",35.1955,0.81697157275999999
+13,Georgia,All drugs,2022,"Rate per 100,000",24.92914,0.95669096851999991
+15,Hawaii,All drugs,2022,"Rate per 100,000",18.55658,2.2290884823199999
+16,Idaho,All drugs,2022,"Rate per 100,000",20.66129,2.1005750396399998
+17,Illinois,All drugs,2022,"Rate per 100,000",29.97857,0.96859821743999996
+18,Indiana,All drugs,2022,"Rate per 100,000",40.96875,1.5820321848799999
+19,Iowa,All drugs,2022,"Rate per 100,000",15.25354,1.4148834162399999
+20,Kansas,All drugs,2022,"Rate per 100,000",26.48614,1.932147104
+21,Kentucky,All drugs,2022,"Rate per 100,000",53.17692,2.2362054755600003
+22,Louisiana,All drugs,2022,"Rate per 100,000",54.50228,2.2323087231200001
+23,Maine,All drugs,2022,"Rate per 100,000",54.29877,4.1478665326000002
+24,Maryland,All drugs,2022,"Rate per 100,000",40.26565,1.594870898
+25,Massachusetts,All drugs,2022,"Rate per 100,000",37.38664,1.4665556371200001
+26,Michigan,All drugs,2022,"Rate per 100,000",30.69836,1.1349009344400001
+27,Minnesota,All drugs,2022,"Rate per 100,000",24.82309,1.332629772
+28,Mississippi,All drugs,2022,"Rate per 100,000",27.62774,2.0098376530399999
+29,Missouri,All drugs,2022,"Rate per 100,000",36.87638,1.5778889643999998
+30,Montana,All drugs,2022,"Rate per 100,000",19.37722,2.6983535972400001
+31,Nebraska,All drugs,2022,"Rate per 100,000",11.84376,1.575536931
+32,Nevada,All drugs,2022,"Rate per 100,000",30.32102,1.915394353
+33,New Hampshire,All drugs,2022,"Rate per 100,000",35.98401,3.3100491622799999
+34,New Jersey,All drugs,2022,"Rate per 100,000",31.63443,1.163802018
+35,New Mexico,All drugs,2022,"Rate per 100,000",50.33798,3.1612781827199998
+36,New York,All drugs,2022,"Rate per 100,000",31.41767,0.7949515587999999
+37,North Carolina,All drugs,2022,"Rate per 100,000",41.77386,1.2707778266399998
+38,North Dakota,All drugs,2022,"Rate per 100,000",19.80759,3.2503780167599996
+39,Ohio,All drugs,2022,"Rate per 100,000",45.59053,1.277888777
+40,Oklahoma,All drugs,2022,"Rate per 100,000",30.66999,1.7696109743200001
+41,Oregon,All drugs,2022,"Rate per 100,000",31.09892,1.6865453080000001
+42,Pennsylvania,All drugs,2022,"Rate per 100,000",40.87332,1.1484724291600001
+44,Rhode Island,All drugs,2022,"Rate per 100,000",38.11778,3.7485498761199998
+45,South Carolina,All drugs,2022,"Rate per 100,000",44.74073,1.8871114121999999
+46,South Dakota,All drugs,2022,"Rate per 100,000",11.31602,2.3179952485199999
+47,Tennessee,All drugs,2022,"Rate per 100,000",56.0193,1.8135987310000001
+48,Texas,All drugs,2022,"Rate per 100,000",18.24177,0.48718701388000002
+49,Utah,All drugs,2022,"Rate per 100,000",19.79898,1.565383843
+50,Vermont,All drugs,2022,"Rate per 100,000",45.93666,5.5782789955199998
+51,Virginia,All drugs,2022,"Rate per 100,000",28.81294,1.1507236008799999
+53,Washington,All drugs,2022,"Rate per 100,000",33.70184,1.2883818684800001
+54,West Virginia,All drugs,2022,"Rate per 100,000",80.91997,4.4795638554800004
+55,Wisconsin,All drugs,2022,"Rate per 100,000",31.77942,1.511240983
+56,Wyoming,All drugs,2022,"Rate per 100,000",21.87409,3.9165074975599996
+01,Alabama,All opioids,2022,"Rate per 100,000",23.35099,1.4093827879599998
+02,Alaska,All opioids,2022,"Rate per 100,000",25.07515,3.6436905719199997
+04,Arizona,All opioids,2022,"Rate per 100,000",27.44343,1.2471726705200001
+05,Arkansas,All opioids,2022,"Rate per 100,000",13.78278,1.3955116680399999
+06,California,All opioids,2022,"Rate per 100,000",18.40943,0.42692406595999999
+08,Colorado,All opioids,2022,"Rate per 100,000",19.4325,1.124078451
+09,Connecticut,All opioids,2022,"Rate per 100,000",36.77175,2.0295267036799998
+10,Delaware,All opioids,2022,"Rate per 100,000",50.23695,4.6084746411199999
+11,Dist. of Columbia,All opioids,2022,"Rate per 100,000",48.91213,5.2410986177199996
+12,Florida,All opioids,2022,"Rate per 100,000",26.49951,0.71337449484000004
+13,Georgia,All opioids,2022,"Rate per 100,000",18.65826,0.83226378676000001
+15,Hawaii,All opioids,2022,"Rate per 100,000",7.07427,1.4027436505599999
+16,Idaho,All opioids,2022,"Rate per 100,000",14.66797,1.775385593
+17,Illinois,All opioids,2022,"Rate per 100,000",24.86259,0.88237608479999996
+18,Indiana,All opioids,2022,"Rate per 100,000",31.98871,1.402832648
+19,Iowa,All opioids,2022,"Rate per 100,000",7.92216,1.0283205248399998
+20,Kansas,All opioids,2022,"Rate per 100,000",18.19927,1.6136238137600001
+21,Kentucky,All opioids,2022,"Rate per 100,000",41.79102,1.9893013747600001
+22,Louisiana,All opioids,2022,"Rate per 100,000",31.62014,1.7046382463600001
+23,Maine,All opioids,2022,"Rate per 100,000",48.21204,3.9258172525599995
+24,Maryland,All opioids,2022,"Rate per 100,000",35.3149,1.4964441122399998
+25,Massachusetts,All opioids,2022,"Rate per 100,000",33.09333,1.3822000693199998
+26,Michigan,All opioids,2022,"Rate per 100,000",24.87648,1.022875851
+27,Minnesota,All opioids,2022,"Rate per 100,000",18.71674,1.1612113080399999
+28,Mississippi,All opioids,2022,"Rate per 100,000",19.97529,1.7146032411199998
+29,Missouri,All opioids,2022,"Rate per 100,000",27.05828,1.3575941763999999
+30,Montana,All opioids,2022,"Rate per 100,000",12.34797,2.1628535555200004
+31,Nebraska,All opioids,2022,"Rate per 100,000",6.56877,1.1809316030399999
+32,Nevada,All opioids,2022,"Rate per 100,000",19.95369,1.573050644
+33,New Hampshire,All opioids,2022,"Rate per 100,000",32.14554,3.1358744816000002
+34,New Jersey,All opioids,2022,"Rate per 100,000",28.0835,1.0985214508799999
+35,New Mexico,All opioids,2022,"Rate per 100,000",36.45473,2.699104556
+36,New York,All opioids,2022,"Rate per 100,000",26.71307,0.73510167107999991
+37,North Carolina,All opioids,2022,"Rate per 100,000",35.68019,1.1792155720799999
+38,North Dakota,All opioids,2022,"Rate per 100,000",13.38329,2.7039729995599999
+39,Ohio,All opioids,2022,"Rate per 100,000",37.9681,1.17105553
+40,Oklahoma,All opioids,2022,"Rate per 100,000",19.7554,1.4238094777200001
+41,Oregon,All opioids,2022,"Rate per 100,000",22.41784,1.438640527
+42,Pennsylvania,All opioids,2022,"Rate per 100,000",31.83091,1.0189650450000001
+44,Rhode Island,All opioids,2022,"Rate per 100,000",30.74247,3.3956136032000002
+45,South Carolina,All opioids,2022,"Rate per 100,000",36.60493,1.7173494225999999
+46,South Dakota,All opioids,2022,"Rate per 100,000",5.52005,1.615671091
+47,Tennessee,All opioids,2022,"Rate per 100,000",45.3313,1.6376247742399999
+48,Texas,All opioids,2022,"Rate per 100,000",10.6481,0.37352247631999996
+49,Utah,All opioids,2022,"Rate per 100,000",13.48359,1.292052296
+50,Vermont,All opioids,2022,"Rate per 100,000",40.94284,5.3138730237600003
+51,Virginia,All opioids,2022,"Rate per 100,000",24.61216,1.068174894
+53,Washington,All opioids,2022,"Rate per 100,000",25.8571,1.1343283282799999
+54,West Virginia,All opioids,2022,"Rate per 100,000",70.5388,4.2027882512000003
+55,Wisconsin,All opioids,2022,"Rate per 100,000",25.8988,1.3725485687200001
+56,Wyoming,All opioids,2022,"Rate per 100,000",14.44231,3.182463807
+01,Alabama,Cocaine,2022,"Rate per 100,000",5.19298,0.65632723071999999
+02,Alaska,Cocaine,2022,"Rate per 100,000",2.87125,1.2477215312800001
+04,Arizona,Cocaine,2022,"Rate per 100,000",3.25593,0.42626223864000001
+05,Arkansas,Cocaine,2022,"Rate per 100,000",2.54998,0.58662518151999998
+06,California,Cocaine,2022,"Rate per 100,000",3.34511,0.17844496
+08,Colorado,Cocaine,2022,"Rate per 100,000",4.27654,0.52583785519999993
+09,Connecticut,Cocaine,2022,"Rate per 100,000",15.88258,1.3403760977599999
+10,Delaware,Cocaine,2022,"Rate per 100,000",21.99273,3.0071872182799999
+11,Dist. of Columbia,Cocaine,2022,"Rate per 100,000",32.0365,4.2346307659600004
+12,Florida,Cocaine,2022,"Rate per 100,000",9.76354,0.42834725528000001
+13,Georgia,Cocaine,2022,"Rate per 100,000",5.32744,0.43717951312000003
+15,Hawaii,Cocaine,2022,"Rate per 100,000",2.05082,0.76656958475999992
+16,Idaho,Cocaine,2022,"Rate per 100,000",Unreliable,0.43539725768000004
+17,Illinois,Cocaine,2022,"Rate per 100,000",11.44222,0.59603894195999996
+18,Indiana,Cocaine,2022,"Rate per 100,000",7.13039,0.65416760471999991
+19,Iowa,Cocaine,2022,"Rate per 100,000",1.49482,0.44626474228000002
+20,Kansas,Cocaine,2022,"Rate per 100,000",2.93994,0.64064681911999999
+21,Kentucky,Cocaine,2022,"Rate per 100,000",5.66253,0.73001061616000007
+22,Louisiana,Cocaine,2022,"Rate per 100,000",7.50393,0.82084732968000007
+23,Maine,Cocaine,2022,"Rate per 100,000",16.66255,2.3127072469200001
+24,Maryland,Cocaine,2022,"Rate per 100,000",15.45717,0.98955438847999999
+25,Massachusetts,Cocaine,2022,"Rate per 100,000",17.40331,1.0027393868800001
+26,Michigan,Cocaine,2022,"Rate per 100,000",10.85696,0.67105371031999994
+27,Minnesota,Cocaine,2022,"Rate per 100,000",3.73996,0.50834587243999996
+28,Mississippi,Cocaine,2022,"Rate per 100,000",3.77105,0.73376457476000001
+29,Missouri,Cocaine,2022,"Rate per 100,000",5.16391,0.58326820915999988
+30,Montana,Cocaine,2022,"Rate per 100,000",Unreliable,0.70656461008000004
+31,Nebraska,Cocaine,2022,"Rate per 100,000",Unreliable,0.36071460152000001
+32,Nevada,Cocaine,2022,"Rate per 100,000",3.13718,0.61507745487999999
+33,New Hampshire,Cocaine,2022,"Rate per 100,000",4.84501,1.1931641100400001
+34,New Jersey,Cocaine,2022,"Rate per 100,000",12.40598,0.73026133152000006
+35,New Mexico,Cocaine,2022,"Rate per 100,000",9.35474,1.348810864
+36,New York,Cocaine,2022,"Rate per 100,000",14.11785,0.53255542983999993
+37,North Carolina,Cocaine,2022,"Rate per 100,000",14.59822,0.74728318671999994
+38,North Dakota,Cocaine,2022,"Rate per 100,000",Suppressed,#VALUE!
+39,Ohio,Cocaine,2022,"Rate per 100,000",14.20954,0.707132565
+40,Oklahoma,Cocaine,2022,"Rate per 100,000",2.19313,0.47137919836000003
+41,Oregon,Cocaine,2022,"Rate per 100,000",2.66249,0.49424001703999998
+42,Pennsylvania,Cocaine,2022,"Rate per 100,000",13.83106,0.663981817
+44,Rhode Island,Cocaine,2022,"Rate per 100,000",18.20585,2.5992042
+45,South Carolina,Cocaine,2022,"Rate per 100,000",10.54158,0.908657403
+46,South Dakota,Cocaine,2022,"Rate per 100,000",Suppressed,#VALUE!
+47,Tennessee,Cocaine,2022,"Rate per 100,000",10.29431,0.76797117684000005
+48,Texas,Cocaine,2022,"Rate per 100,000",4.60271,0.24394632359999999
+49,Utah,Cocaine,2022,"Rate per 100,000",1.23763,0.38848670196000001
+50,Vermont,Cocaine,2022,"Rate per 100,000",17.56445,3.4604805715199998
+51,Virginia,Cocaine,2022,"Rate per 100,000",10.20837,0.68358842776000006
+53,Washington,Cocaine,2022,"Rate per 100,000",4.42452,0.463821489
+54,West Virginia,Cocaine,2022,"Rate per 100,000",10.22832,1.568193438
+55,Wisconsin,Cocaine,2022,"Rate per 100,000",11.72564,0.91416272584000002
+56,Wyoming,Cocaine,2022,"Rate per 100,000",Suppressed,#VALUE!
+01,Alabama,Heroin,2022,"Rate per 100,000",1.01924,0.29760662539999999
+02,Alaska,Heroin,2022,"Rate per 100,000",5.22528,1.66433203
+04,Arizona,Heroin,2022,"Rate per 100,000",0.7318,0.19902849791999999
+05,Arkansas,Heroin,2022,"Rate per 100,000",Suppressed,#VALUE!
+06,California,Heroin,2022,"Rate per 100,000",1.19626,0.10723035147999999
+08,Colorado,Heroin,2022,"Rate per 100,000",1.0294,0.25585885276000003
+09,Connecticut,Heroin,2022,"Rate per 100,000",2.42752,0.50424424316000005
+10,Delaware,Heroin,2022,"Rate per 100,000",4.89653,1.383840129
+11,Dist. of Columbia,Heroin,2022,"Rate per 100,000",5.4089,1.709342117
+12,Florida,Heroin,2022,"Rate per 100,000",0.80397,0.12483253916000001
+13,Georgia,Heroin,2022,"Rate per 100,000",1.4419,0.230077801
+15,Hawaii,Heroin,2022,"Rate per 100,000",Unreliable,0.404291799
+16,Idaho,Heroin,2022,"Rate per 100,000",Unreliable,0.37177141
+17,Illinois,Heroin,2022,"Rate per 100,000",4.11557,0.35748499191999999
+18,Indiana,Heroin,2022,"Rate per 100,000",0.99889,0.24991052128000002
+19,Iowa,Heroin,2022,"Rate per 100,000",0.87501,0.34316412451999995
+20,Kansas,Heroin,2022,"Rate per 100,000",Unreliable,0.32411245999999999
+21,Kentucky,Heroin,2022,"Rate per 100,000",0.84733,0.289205662
+22,Louisiana,Heroin,2022,"Rate per 100,000",1.22681,0.33582358347999997
+23,Maine,Heroin,2022,"Rate per 100,000",Unreliable,0.70963035192000001
+24,Maryland,Heroin,2022,"Rate per 100,000",0.39904,0.162060881
+25,Massachusetts,Heroin,2022,"Rate per 100,000",1.54329,0.29544827340000002
+26,Michigan,Heroin,2022,"Rate per 100,000",1.54538,0.25030959687999998
+27,Minnesota,Heroin,2022,"Rate per 100,000",0.86314,0.25376159003999998
+28,Mississippi,Heroin,2022,"Rate per 100,000",0.85647,0.353452413
+29,Missouri,Heroin,2022,"Rate per 100,000",0.72112,0.217041997
+30,Montana,Heroin,2022,"Rate per 100,000",Suppressed,#VALUE!
+31,Nebraska,Heroin,2022,"Rate per 100,000",Unreliable,0
+32,Nevada,Heroin,2022,"Rate per 100,000",2.83847,0.594287025
+33,New Hampshire,Heroin,2022,"Rate per 100,000",Suppressed,#VALUE!
+34,New Jersey,Heroin,2022,"Rate per 100,000",3.1133,0.362977549
+35,New Mexico,Heroin,2022,"Rate per 100,000",2.07263,0.63287793967999995
+36,New York,Heroin,2022,"Rate per 100,000",4.3375,0.290377826
+37,North Carolina,Heroin,2022,"Rate per 100,000",1.29039,0.22607040820000002
+38,North Dakota,Heroin,2022,"Rate per 100,000",Suppressed,#VALUE!
+39,Ohio,Heroin,2022,"Rate per 100,000",0.85088,0.17740468815999999
+40,Oklahoma,Heroin,2022,"Rate per 100,000",1.00147,0.32466758687999997
+41,Oregon,Heroin,2022,"Rate per 100,000",2.63507,0.49446451543999997
+42,Pennsylvania,Heroin,2022,"Rate per 100,000",2.50867,0.28918828035999999
+44,Rhode Island,Heroin,2022,"Rate per 100,000",Suppressed,#VALUE!
+45,South Carolina,Heroin,2022,"Rate per 100,000",1.12679,0.30836809947999999
+46,South Dakota,Heroin,2022,"Rate per 100,000",Unreliable,0
+47,Tennessee,Heroin,2022,"Rate per 100,000",1.38646,0.29218189812000001
+48,Texas,Heroin,2022,"Rate per 100,000",1.9573,0.160777751
+49,Utah,Heroin,2022,"Rate per 100,000",3.7395,0.68109954723999999
+50,Vermont,Heroin,2022,"Rate per 100,000",3.87193,1.637416599
+51,Virginia,Heroin,2022,"Rate per 100,000",2.8182,0.35890551368000001
+53,Washington,Heroin,2022,"Rate per 100,000",1.9119,0.30724990967999999
+54,West Virginia,Heroin,2022,"Rate per 100,000",1.60561,0.63696881051999998
+55,Wisconsin,Heroin,2022,"Rate per 100,000",2.34672,0.41612018335999995
+56,Wyoming,Heroin,2022,"Rate per 100,000",Suppressed,#VALUE!
+01,Alabama,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.05739,0.503085946
+02,Alaska,Natural and semi-synthetic opioids,2022,"Rate per 100,000",6.4754,1.8666378499999998
+04,Arizona,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.8255,0.39035896256000002
+05,Arkansas,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.4331,0.68097560859999995
+06,California,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.23267,0.14562736103999999
+08,Colorado,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.44781,0.46844251664000003
+09,Connecticut,Natural and semi-synthetic opioids,2022,"Rate per 100,000",5.08468,0.74414975431999997
+10,Delaware,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.50043,1.192085928
+11,Dist. of Columbia,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.65785,1.6653279865600001
+12,Florida,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.0572,0.27448606751999999
+13,Georgia,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.34819,0.39905933199999999
+15,Hawaii,Natural and semi-synthetic opioids,2022,"Rate per 100,000",1.5654,0.65770702564000005
+16,Idaho,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.68672,0.87495335703999999
+17,Illinois,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.29232,0.31969426132000001
+18,Indiana,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.98377,0.54989060280000002
+19,Iowa,Natural and semi-synthetic opioids,2022,"Rate per 100,000",1.70139,0.46719350467999998
+20,Kansas,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.26013,0.76937983275999999
+21,Kentucky,Natural and semi-synthetic opioids,2022,"Rate per 100,000",7.31154,0.81635889831999997
+22,Louisiana,Natural and semi-synthetic opioids,2022,"Rate per 100,000",6.22286,0.73936705051999996
+23,Maine,Natural and semi-synthetic opioids,2022,"Rate per 100,000",6.00766,1.3659599287599999
+24,Maryland,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.44715,0.46492447147999999
+25,Massachusetts,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.0342,0.40747888243999997
+26,Michigan,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.92306,0.34803490876000004
+27,Minnesota,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.38251,0.40457569712000002
+28,Mississippi,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.21685,0.67735998484000004
+29,Missouri,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.99903,0.43966190995999999
+30,Montana,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.0782,1.0758622907199999
+31,Nebraska,Natural and semi-synthetic opioids,2022,"Rate per 100,000",1.66709,0.58246523636000003
+32,Nevada,Natural and semi-synthetic opioids,2022,"Rate per 100,000",5.48183,0.81693633196000004
+33,New Hampshire,Natural and semi-synthetic opioids,2022,"Rate per 100,000",Unreliable,0.50377305327999999
+34,New Jersey,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.64911,0.33340973959999998
+35,New Mexico,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.29615,0.89098085523999992
+36,New York,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.21532,0.28684797371999998
+37,North Carolina,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.45596,0.41301757587999999
+38,North Dakota,Natural and semi-synthetic opioids,2022,"Rate per 100,000",Unreliable,1.00495629
+39,Ohio,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.25473,0.33883372208000001
+40,Oklahoma,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.87725,0.53263995876000003
+41,Oregon,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.77729,0.48487229112000002
+42,Pennsylvania,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.67455,0.34166954024000001
+44,Rhode Island,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.48188,1.1142118330000002
+45,South Carolina,Natural and semi-synthetic opioids,2022,"Rate per 100,000",6.68858,0.72445143483999996
+46,South Dakota,Natural and semi-synthetic opioids,2022,"Rate per 100,000",Suppressed,#VALUE!
+47,Tennessee,Natural and semi-synthetic opioids,2022,"Rate per 100,000",6.72922,0.62696779684000004
+48,Texas,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.22864,0.170435489
+49,Utah,Natural and semi-synthetic opioids,2022,"Rate per 100,000",5.55703,0.83120876579999992
+50,Vermont,Natural and semi-synthetic opioids,2022,"Rate per 100,000",3.01131,1.3772959944799998
+51,Virginia,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.4894,0.33610492776000001
+53,Washington,Natural and semi-synthetic opioids,2022,"Rate per 100,000",2.6917,0.35685368179999999
+54,West Virginia,Natural and semi-synthetic opioids,2022,"Rate per 100,000",8.67368,1.446413244
+55,Wisconsin,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.19713,0.53776356340000009
+56,Wyoming,Natural and semi-synthetic opioids,2022,"Rate per 100,000",4.58534,1.752617514
+01,Alabama,Psychostimulants,2022,"Rate per 100,000",12.97681,1.063944958
+02,Alaska,Psychostimulants,2022,"Rate per 100,000",19.61028,3.2555314251599996
+04,Arizona,Psychostimulants,2022,"Rate per 100,000",18.83112,1.0307590470799999
+05,Arkansas,Psychostimulants,2022,"Rate per 100,000",9.41483,1.16318383
+06,California,Psychostimulants,2022,"Rate per 100,000",14.24932,0.37302773116000004
+08,Colorado,Psychostimulants,2022,"Rate per 100,000",11.77031,0.87739362564000001
+09,Connecticut,Psychostimulants,2022,"Rate per 100,000",2.31657,0.52271182768000002
+10,Delaware,Psychostimulants,2022,"Rate per 100,000",7.63591,1.819738541
+11,Dist. of Columbia,Psychostimulants,2022,"Rate per 100,000",Unreliable,0.99168154316000001
+12,Florida,Psychostimulants,2022,"Rate per 100,000",9.20156,0.42226800363999994
+13,Georgia,Psychostimulants,2022,"Rate per 100,000",9.17572,0.58620021039999992
+15,Hawaii,Psychostimulants,2022,"Rate per 100,000",11.80742,1.766872209
+16,Idaho,Psychostimulants,2022,"Rate per 100,000",7.54254,1.274441819
+17,Illinois,Psychostimulants,2022,"Rate per 100,000",4.50918,0.38462316
+18,Indiana,Psychostimulants,2022,"Rate per 100,000",14.94929,0.96415336667999996
+19,Iowa,Psychostimulants,2022,"Rate per 100,000",6.88483,0.96044371975999998
+20,Kansas,Psychostimulants,2022,"Rate per 100,000",12.06448,1.3214443499599999
+21,Kentucky,Psychostimulants,2022,"Rate per 100,000",24.19526,1.5201931695999999
+22,Louisiana,Psychostimulants,2022,"Rate per 100,000",15.2725,1.1951395646399998
+23,Maine,Psychostimulants,2022,"Rate per 100,000",18.04516,2.4101912240000001
+24,Maryland,Psychostimulants,2022,"Rate per 100,000",2.41082,0.40363245103999995
+25,Massachusetts,Psychostimulants,2022,"Rate per 100,000",3.33202,0.44937178719999998
+26,Michigan,Psychostimulants,2022,"Rate per 100,000",5.42598,0.48776874187999997
+27,Minnesota,Psychostimulants,2022,"Rate per 100,000",9.37627,0.82403244335999992
+28,Mississippi,Psychostimulants,2022,"Rate per 100,000",11.99759,1.3419611223200001
+29,Missouri,Psychostimulants,2022,"Rate per 100,000",12.66113,0.93524685939999996
+30,Montana,Psychostimulants,2022,"Rate per 100,000",8.5532,1.8002777615200001
+31,Nebraska,Psychostimulants,2022,"Rate per 100,000",4.05638,0.93575606544000001
+32,Nevada,Psychostimulants,2022,"Rate per 100,000",15.64394,1.3701030355599999
+33,New Hampshire,Psychostimulants,2022,"Rate per 100,000",8.06158,1.584285177
+34,New Jersey,Psychostimulants,2022,"Rate per 100,000",4.01256,0.42510124832000001
+35,New Mexico,Psychostimulants,2022,"Rate per 100,000",24.73134,2.21988552
+36,New York,Psychostimulants,2022,"Rate per 100,000",3.53313,0.27466724991999997
+37,North Carolina,Psychostimulants,2022,"Rate per 100,000",12.87841,0.712928738
+38,North Dakota,Psychostimulants,2022,"Rate per 100,000",5.82214,1.737817299
+39,Ohio,Psychostimulants,2022,"Rate per 100,000",12.78489,0.68685302727999997
+40,Oklahoma,Psychostimulants,2022,"Rate per 100,000",15.79726,1.274657856
+41,Oregon,Psychostimulants,2022,"Rate per 100,000",17.12213,1.2551722674399999
+42,Pennsylvania,Psychostimulants,2022,"Rate per 100,000",7.89301,0.51247351679999997
+44,Rhode Island,Psychostimulants,2022,"Rate per 100,000",3.6239,1.160391258
+45,South Carolina,Psychostimulants,2022,"Rate per 100,000",16.36067,1.1609622528000001
+46,South Dakota,Psychostimulants,2022,"Rate per 100,000",5.14434,1.5646587017599998
+47,Tennessee,Psychostimulants,2022,"Rate per 100,000",23.15446,1.176855009
+48,Texas,Psychostimulants,2022,"Rate per 100,000",7.53646,0.31460698135999998
+49,Utah,Psychostimulants,2022,"Rate per 100,000",8.55426,1.0281987421999998
+50,Vermont,Psychostimulants,2022,"Rate per 100,000",4.56806,1.7876439856799999
+51,Virginia,Psychostimulants,2022,"Rate per 100,000",6.83185,0.56567784811999999
+53,Washington,Psychostimulants,2022,"Rate per 100,000",17.00113,0.91526934772000001
+54,West Virginia,Psychostimulants,2022,"Rate per 100,000",44.34008,3.3312414545200002
+55,Wisconsin,Psychostimulants,2022,"Rate per 100,000",7.32968,0.73828365659999995
+56,Wyoming,Psychostimulants,2022,"Rate per 100,000",8.84721,2.5039334630800001
+01,Alabama,Synthetic opioids,2022,"Rate per 100,000",21.09041,1.340224278
+02,Alaska,Synthetic opioids,2022,"Rate per 100,000",21.53344,3.3805260112399997
+04,Arizona,Synthetic opioids,2022,"Rate per 100,000",24.90081,1.191501909
+05,Arkansas,Synthetic opioids,2022,"Rate per 100,000",11.44289,1.2812025198000001
+06,California,Synthetic opioids,2022,"Rate per 100,000",16.38215,0.40422319503999998
+08,Colorado,Synthetic opioids,2022,"Rate per 100,000",16.14948,1.027469934
+09,Connecticut,Synthetic opioids,2022,"Rate per 100,000",34.34975,1.9646655212800002
+10,Delaware,Synthetic opioids,2022,"Rate per 100,000",47.07173,4.4675442377999994
+11,Dist. of Columbia,Synthetic opioids,2022,"Rate per 100,000",46.38847,5.1075220932399992
+12,Florida,Synthetic opioids,2022,"Rate per 100,000",24.34935,0.68564791148000004
+13,Georgia,Synthetic opioids,2022,"Rate per 100,000",16.35872,0.78141593992000002
+15,Hawaii,Synthetic opioids,2022,"Rate per 100,000",5.44217,1.249692566
+16,Idaho,Synthetic opioids,2022,"Rate per 100,000",11.19761,1.567485555
+17,Illinois,Synthetic opioids,2022,"Rate per 100,000",22.80589,0.84598525676000003
+18,Indiana,Synthetic opioids,2022,"Rate per 100,000",29.91056,1.359911906
+19,Iowa,Synthetic opioids,2022,"Rate per 100,000",6.92639,0.96691616895999999
+20,Kansas,Synthetic opioids,2022,"Rate per 100,000",15.35237,1.4897115573199999
+21,Kentucky,Synthetic opioids,2022,"Rate per 100,000",38.49146,1.9151181501200001
+22,Louisiana,Synthetic opioids,2022,"Rate per 100,000",28.0807,1.6116222519599999
+23,Maine,Synthetic opioids,2022,"Rate per 100,000",44.69005,3.7921934881600001
+24,Maryland,Synthetic opioids,2022,"Rate per 100,000",32.74396,1.441505969
+25,Massachusetts,Synthetic opioids,2022,"Rate per 100,000",31.80793,1.3580184262400001
+26,Michigan,Synthetic opioids,2022,"Rate per 100,000",23.02184,0.98602261939999991
+27,Minnesota,Synthetic opioids,2022,"Rate per 100,000",17.34164,1.1196662660400001
+28,Mississippi,Synthetic opioids,2022,"Rate per 100,000",17.98632,1.6322409227600001
+29,Missouri,Synthetic opioids,2022,"Rate per 100,000",25.29028,1.3159491939999999
+30,Montana,Synthetic opioids,2022,"Rate per 100,000",9.55054,1.8963278594400002
+31,Nebraska,Synthetic opioids,2022,"Rate per 100,000",5.51938,1.089062019
+32,Nevada,Synthetic opioids,2022,"Rate per 100,000",14.39177,1.3419036100399999
+33,New Hampshire,Synthetic opioids,2022,"Rate per 100,000",31.10138,3.0889100689999998
+34,New Jersey,Synthetic opioids,2022,"Rate per 100,000",26.54787,1.0686192890800001
+35,New Mexico,Synthetic opioids,2022,"Rate per 100,000",32.44487,2.552487336
+36,New York,Synthetic opioids,2022,"Rate per 100,000",24.71985,0.70777133699999994
+37,North Carolina,Synthetic opioids,2022,"Rate per 100,000",33.15074,1.137627387
+38,North Dakota,Synthetic opioids,2022,"Rate per 100,000",11.88912,2.5463685685200002
+39,Ohio,Synthetic opioids,2022,"Rate per 100,000",35.94715,1.1410827450399998
+40,Oklahoma,Synthetic opioids,2022,"Rate per 100,000",17.01678,1.3261131797199999
+41,Oregon,Synthetic opioids,2022,"Rate per 100,000",19.81887,1.359752523
+42,Pennsylvania,Synthetic opioids,2022,"Rate per 100,000",29.87079,0.98916835864000008
+44,Rhode Island,Synthetic opioids,2022,"Rate per 100,000",28.52956,3.2776276223600003
+45,South Carolina,Synthetic opioids,2022,"Rate per 100,000",33.16514,1.6397324073199999
+46,South Dakota,Synthetic opioids,2022,"Rate per 100,000",4.56868,1.468105513
+47,Tennessee,Synthetic opioids,2022,"Rate per 100,000",42.18251,1.5821705608800001
+48,Texas,Synthetic opioids,2022,"Rate per 100,000",8.24359,0.328656553
+49,Utah,Synthetic opioids,2022,"Rate per 100,000",6.73876,0.912194798
+50,Vermont,Synthetic opioids,2022,"Rate per 100,000",38.77359,5.1759528158799997
+51,Virginia,Synthetic opioids,2022,"Rate per 100,000",23.10506,1.0359975567200002
+53,Washington,Synthetic opioids,2022,"Rate per 100,000",23.50636,1.0842497069599999
+54,West Virginia,Synthetic opioids,2022,"Rate per 100,000",67.01679,4.1020445197199997
+55,Wisconsin,Synthetic opioids,2022,"Rate per 100,000",23.91051,1.3219743065199998
+56,Wyoming,Synthetic opioids,2022,"Rate per 100,000",10.86825,2.78012485
